@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/uxdwh_src")' >> /home/jovyan/.Rprofile
